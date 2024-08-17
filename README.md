@@ -9,7 +9,7 @@ Languages I enjoy:
 My ides:
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%23000000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-000000.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-000000.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 My github stats:
