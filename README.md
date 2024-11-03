@@ -1,6 +1,8 @@
 # Hello world!
 ## https://xliam.vercel.app/
 
+I use linux, windows, and macos - but I daily drive linux
+
 Languages I enjoy:
 
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -17,4 +19,3 @@ My ides:
 My github stats:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Typhoonz0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
