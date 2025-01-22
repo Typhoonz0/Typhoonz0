@@ -1,5 +1,5 @@
 # Hello world!
-## https://xliam.vercel.app/
+## https://xliam.space
 
 I use linux, windows, and macos - but I daily drive linux
 
