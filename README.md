@@ -1,7 +1,7 @@
 # Hello world!
 ## https://xliam.space
 
-I use linux, windows, and macos - but I daily drive linux
+daily driving linux
 
 Languages I enjoy:
 
