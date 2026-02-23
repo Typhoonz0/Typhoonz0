@@ -1,4 +1,4 @@
-# https://xliam.space
+# https://xliam.xyz
 
 i like linux 
 
