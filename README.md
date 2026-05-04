@@ -1,7 +1,2 @@
-# https://xliam.xyz
-
-i like linux 
-
-look at my projects you might find something useful
-
-<- fumofumo
+> [!TIP]
+> https://xliam.xyz
