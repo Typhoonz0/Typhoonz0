@@ -1,2 +1,1 @@
-> [!TIP]
-> https://xliam.xyz
+https://xliam.xyz
